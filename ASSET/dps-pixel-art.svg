@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Contours puis remplissage -->
+  
+  <!-- Capuche pointue -->
+  <rect x="24" y="8" width="16" height="8" fill="black"/>
+  <rect x="25" y="9" width="14" height="6" fill="#8B0000"/>
+  
+  <!-- Masque/Visage -->
+  <rect x="28" y="12" width="8" height="4" fill="black"/>
+  <rect x="29" y="13" width="6" height="2" fill="#696969"/>
+  
+  <!-- Armure de cuir -->
+  <rect x="24" y="16" width="16" height="24" fill="black"/>
+  <rect x="25" y="17" width="14" height="22" fill="#8B0000"/>
+  
+  <!-- Ceinture -->
+  <rect x="24" y="32" width="16" height="4" fill="black"/>
+  <rect x="25" y="33" width="14" height="2" fill="#696969"/>
+  
+  <!-- Pantalon -->
+  <rect x="24" y="36" width="16" height="16" fill="black"/>
+  <rect x="25" y="37" width="14" height="14" fill="#4A0404"/>
+  
+  <!-- Bottes -->
+  <rect x="24" y="52" width="16" height="4" fill="black"/>
+  <rect x="25" y="53" width="14" height="2" fill="#696969"/>
+  
+  <!-- Bras -->
+  <rect x="16" y="20" width="8" height="12" fill="black"/>
+  <rect x="17" y="21" width="6" height="10" fill="#8B0000"/>
+  <rect x="40" y="20" width="8" height="12" fill="black"/>
+  <rect x="41" y="21" width="6" height="10" fill="#8B0000"/>
+  
+  <!-- Mains -->
+  <rect x="16" y="32" width="8" height="4" fill="black"/>
+  <rect x="17" y="33" width="6" height="2" fill="#696969"/>
+  <rect x="40" y="32" width="8" height="4" fill="black"/>
+  <rect x="41" y="33" width="6" height="2" fill="#696969"/>
+  
+  <!-- Dagues/Lames -->
+  <!-- Lame gauche -->
+  <rect x="12" y="28" width="4" height="12" fill="black"/>
+  <rect x="13" y="29" width="2" height="10" fill="#C0C0C0"/>
+  <!-- Lame droite -->
+  <rect x="48" y="28" width="4" height="12" fill="black"/>
+  <rect x="49" y="29" width="2" height="10" fill="#C0C0C0"/>
+  
+  <!-- Effets de vitesse/dégâts -->
+  <rect x="8" y="32" width="4" height="4" fill="black"/>
+  <rect x="9" y="33" width="2" height="2" fill="#FF4500"/>
+  <rect x="52" y="32" width="4" height="4" fill="black"/>
+  <rect x="53" y="33" width="2" height="2" fill="#FF4500"/>
+</svg>
