@@ -1,1 +1,1 @@
-pip install tk
+pip install tkinter
